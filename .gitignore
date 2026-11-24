@@ -1,0 +1,14 @@
+.DS_Store
+*.srt
+*.ass
+*.vtt
+**/audio/
+**/out/
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mov
+.venv/
+__pycache__/
+.env*
